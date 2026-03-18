@@ -20,3 +20,37 @@ The analysis showed 100% sequence identity with the Homo sapiens BRCA1 transcrip
 ## Tools Used
 - NCBI Gene Database
 - BLAST (Basic Local Alignment Search Tool)
+
+## Step 1: Gene Search (NCBI)
+
+![Gene Search](screenshots/1.%20Gene%20Search.png)
+
+---
+
+## Step 2: FASTA Sequence
+
+![FASTA Sequence](screenshots/2.%20FASTA%20DNA%20Sequence.png)
+
+---
+
+## Step 3: BLAST Query Input
+
+![BLAST Input](screenshots/3.BLAST%20Query%20Input.png)
+
+---
+
+## Step 4: BLAST Results Table
+
+![BLAST Results](screenshots/4.BLAST%20Results%20Table.png)
+
+---
+
+## Step 5: Graphical Summary
+
+![Graphical Summary](screenshots/5.Graphical%20Summary.png)
+
+---
+
+## Step 6: Pairwise Alignment
+
+![Alignment](screenshots/6.Pairwise%20Sequence%20Alignment.png)
